@@ -4,6 +4,9 @@ library(SummarizedExperiment)
 library(genefilter)
 library(survival)
 library(gplots)
+library(ggplot2)
+library(survminer)
+
 
 query = GDCquery(
                 project = "TCGA-LGG", 
