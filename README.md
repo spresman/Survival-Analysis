@@ -2,7 +2,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
-Survival analysis can be used to obtain an expected amount of time until a specified event. This specific analysis focuses on brain glioma patients to better grasp factors that may affect chances of survival. 
+Survival analysis can be used to obtain an expected amount of time until a specified event. This specific analysis focuses on brain glioma patients to better grasp factors that may affect chances of survival. A p value less than 0.05 implies a significant difference between the strata being tested (age, gender, etc.).
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
