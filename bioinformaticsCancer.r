@@ -24,7 +24,7 @@ GDCdownload(query)
 
 data = GDCprepare(query)
 
-#View data in a seperate R window
+#View data in a separate R window
 View(data@colData)
 
 table(data@colData$vital_status)
